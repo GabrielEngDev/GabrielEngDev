@@ -1,11 +1,6 @@
-###  Olá tudo bem? Eu sou o Gabriel...
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
 
-- 🔭 Hoje eu trabalho como Técnico de TI para a Fundação FIEB na escola SESI de Vitória da Conquista-BA
-- 🌱 Recentemente iniciei meus estudos na área de programação para ser um Developer
-- 👨 Eu tenho 21 anos e estou aberto à novas oportunidades.
-
-• Living in Vitória da Conquista, Bahia- Brazil
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+oliveira;I'm+21+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 DASHBOARD:
@@ -35,5 +30,8 @@ REDES SOCIAIS:
   <a href = "mailto:gabriel.engdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_oliveiranunes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=footer"/>
 
 
