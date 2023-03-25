@@ -2,7 +2,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=header"/>
 
 
-
 <!--TYPING-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Oliveira;I'm+21+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -23,7 +22,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
 
 
 <!--COUNTER OF VIEWS-->
